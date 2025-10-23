@@ -1,2 +1,10 @@
 meuappstreamlit/
+insuranceEnv/
+Sprint4Env/
+Sprint4/brazil_car_accidents/
+Sprint4/dataset-Sprint3-acidentes.csv
+Sprint4/metadados_model.json
+Sprint4/kaggle.json
+Sprint4/risco_acidentes_pipeline.pkl
 streamlit/churn_pipeline.pkl
+sistema_recom/recsysEnv
