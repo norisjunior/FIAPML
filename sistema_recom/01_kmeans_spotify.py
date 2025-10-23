@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 import joblib
 
 # === 1. Carregar dataset ===
-url = "https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-01-21/spotify_songs.csv"
+url = "https://raw.githubusercontent.com/norisjunior/FIAPML/refs/heads/main/datasets/dataset-spotify_songs.csv"
 df = pd.read_csv(url)
 print("|> Dataset carregado:", df.shape)
 
