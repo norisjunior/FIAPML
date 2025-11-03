@@ -118,7 +118,7 @@ Features analisadas:
 
 #### 2. **Similaridade de Cosseno**
 - Calcula o ângulo entre vetores de features
-- Quanto menor o ângulo, mais similar (0 = idêntico, 1 = oposto)
+- Quanto mais próximo de 1, mais similar
 - Aplicada apenas dentro do mesmo cluster
 
 ### Fluxo Completo:
